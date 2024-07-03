@@ -31,6 +31,7 @@ namespace AsciiToArabicConverter
 
             Console.WriteLine("النص العربي:");
             Console.WriteLine(arabicText);
+            //اعادة تشغيل البرنامج
             Program.Main();
         }
     }
